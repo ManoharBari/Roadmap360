@@ -17,7 +17,7 @@ A modern, admin-friendly dashboard for "Road Nomenclature & Infra Monitoring Das
 
 ## 🧪 UI Prototype
 
-A working prototype of the dashboard UI has been built using [V0.dev](https://v0.dev/), showcasing the interface for hall browsing, real-time availability, and booking steps.
+An initial working prototype has been created using V0.dev, demonstrating the complete workflow—from registering roads with unique IDs to tagging infrastructure development and monitoring progress
 
 🔗 **[View UI Prototype](https://kzmg27dspcyevsl5qtkg.lite.vusercontent.net/dashboard)**
 
